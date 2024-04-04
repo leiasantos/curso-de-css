@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,600;0,700;0,800;0,900;1,300&display=swap');
+
+body{
+    font-family: 'Poppins';
+    box-sizing: border-box;
+    background-color: rgb(194, 214, 250);
+
+}
+
+p{
+    text-align: justify;
+}
+
+.center {
+    text-align: center;
+    color: crimson;
+    font-weight: 800;
+}
+
+#teste{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.destaque{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: darkblue;
+    font-weight: 600;
+}
+
+a:hover{
+    background-color: chocolate;
+}

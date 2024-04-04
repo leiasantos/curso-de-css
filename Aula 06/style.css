@@ -1,0 +1,22 @@
+*{
+    text-align: justify;
+}
+body{
+    background-color: rgb(200, 221, 242);
+}
+
+.cor{
+    background-color: chartreuse;
+}
+
+.bloco{
+    height: 300px;
+    background-color: darkorange;
+
+}
+
+img{
+    width: 400px;
+    height: 400px;   
+}
+

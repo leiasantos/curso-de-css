@@ -1,0 +1,35 @@
+body{
+    background-color: cornsilk;
+}
+p{
+    text-align: justify;
+}
+
+.item1{
+ color: aqua;
+}
+
+.item2{
+    text-decoration: underline;
+}
+
+.item3{
+    text-transform: uppercase;
+    text-indent: 40px ;
+}
+
+.item4{
+    text-shadow: 3px 3px 4px rgb(134, 204, 245);
+}
+
+h2{
+text-align:left ;
+}
+
+h3{
+   text-align: right; 
+}
+
+h4{
+   text-align: center; 
+}

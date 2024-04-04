@@ -1,0 +1,13 @@
+.exemplo {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    transition: 2s;
+    transition-timing-function: ease;
+}
+
+.exemplo:hover {
+    background-color: blueviolet;
+    width: 400px;
+    height: 400px;
+}

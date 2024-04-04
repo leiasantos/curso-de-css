@@ -1,0 +1,80 @@
+
+.base{
+    background-color: greenyellow;
+    width: 400px;
+    height: 400px;
+    margin: 5px;
+}
+
+
+.item{
+background-color: aqua;
+width: 200px;
+height: 200px;
+float: left;
+}
+
+.item1{
+background-color: blueviolet;
+width:200px ;
+height:200px ;
+float: right;
+}
+
+.item2{
+    background-color: blue;
+}
+
+
+.base2{
+    background-color: rgb(182, 10, 221);
+    width: 400px;
+    height: 400px;
+}
+
+
+.item3{
+background-color: aqua;
+width: 200px;
+height: 200px;
+
+}
+
+.item4{
+background-color: rgb(180, 226, 43);
+width:200px ;
+height:200px ;
+float: right;
+}
+
+.item5{
+    background-color: rgb(255, 0, 255);
+}
+
+
+.base3{
+    background-color: rgb(31, 2, 37);
+    width: 400px;
+    height: 400px;
+    margin: 5px;
+}
+
+
+.item6{
+background-color: rgb(9, 114, 114);
+width: 200px;
+height: 200px;
+
+}
+
+.item7{
+background-color: rgb(180, 226, 43);
+width:200px ;
+height:200px ;
+float: right;
+}
+
+.item8{
+    background-color: rgb(255, 0, 255);
+
+}

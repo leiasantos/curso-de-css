@@ -1,0 +1,12 @@
+
+.exemplo{
+    border: 1px solid black;
+}
+
+.exemplo1{
+    border: 5px dotted black;
+}
+
+.exemplo2{
+    border: 5px double black;
+}

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Poppins';
+}
+
+.main-aside h2{
+    text-align: center;
+}
+.main-aside ul{
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+
+.main-aside a{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+}
+
+.main-aside a:hover{
+    background-color: aqua;
+}
+

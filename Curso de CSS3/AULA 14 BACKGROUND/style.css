@@ -1,0 +1,16 @@
+
+body{
+    background-color: aquamarine;
+}
+
+p{
+    text-align: justify;
+}
+
+div{
+    width: 600px;
+    height: 400px;
+    background-image: url('img2.jpg');
+    background-size:cover;
+   
+}

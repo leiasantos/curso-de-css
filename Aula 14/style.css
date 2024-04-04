@@ -1,0 +1,26 @@
+
+.block{
+    border: 1px solid red;
+}
+
+#format{
+    display: inline;
+}
+
+li{
+    display: inline-block;
+    width: 33%;
+    height: 150px;
+}
+
+.azul{
+ background-color: blue;
+}
+
+.vermelho{
+   background-color: red;
+}
+
+.verde{
+   background-color: green;
+}

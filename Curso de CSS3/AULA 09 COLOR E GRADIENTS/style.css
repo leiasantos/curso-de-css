@@ -1,0 +1,29 @@
+div {
+    width: 200px;
+    height: 200px;
+    margin: 4px;
+}
+
+.card {
+
+    background-color: blueviolet;
+}
+
+
+.card1 {
+  background: linear-gradient(aqua,pink);
+ 
+}
+
+
+.card2 {
+
+    background-color: chartreuse;
+}
+
+
+.card3 {
+
+   
+    background: linear-gradient(darkorange, yellow, red);
+}

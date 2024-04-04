@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Poppins';
+    text-align: justify;
+}
+
+.primeiro-paragrafo{
+    color: crimson;
+    font-size: 16px;
+}
+
+.terceiro-paragrafo{
+    color: darkcyan;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#destaque{
+    color: greenyellow;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#destaque:hover{
+    background-color: dodgerblue;
+}

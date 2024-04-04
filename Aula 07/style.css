@@ -1,0 +1,47 @@
+
+div{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+}
+
+.item1{
+background-color: aqua;
+border: 5px solid black;
+
+}
+
+.item2{
+    background-color: blueviolet;
+    border: 5px dashed black;
+}
+
+.item3{
+    background-color: chartreuse;
+    border: 5px dotted black;
+}
+
+.item4{
+    background-color: chocolate;
+    border: 5px double black;
+}
+
+.item5{
+    background-color: crimson;
+    border: 5px groove black;
+}
+
+.item6{
+    background-color: darkmagenta;
+    border-radius: 50%;
+}
+
+.item7{
+    background-color: deepskyblue;
+   border-radius: 25%;
+}

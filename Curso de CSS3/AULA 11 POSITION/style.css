@@ -1,0 +1,24 @@
+
+.conteudo{
+    width: 600px;
+    height: 1200px;
+    background-color: deepskyblue;
+    position: relative;
+}
+
+.texto{
+    width: 500px;
+    background-color: fuchsia;
+    position: absolute;
+    left: 0;
+    top: 40px;
+}
+
+.fixed{
+    width: 500px;
+    background-color: rgb(248, 139, 61);
+    position: fixed;
+    bottom: 0;
+    right: 0;
+   
+}

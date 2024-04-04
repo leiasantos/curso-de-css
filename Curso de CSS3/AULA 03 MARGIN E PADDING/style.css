@@ -1,0 +1,18 @@
+
+.exemplo{
+    background-color: fuchsia;
+    text-align: justify;
+    width: 500px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+
+.exemplo2{
+    background-color: rgb(48, 231, 136);
+    text-align: justify;
+    width: 500px;
+    padding: 10px;
+    margin: 50px;
+    border: 1px solid black;
+}

@@ -1,0 +1,21 @@
+
+.exemplo{
+    background-color: rgb(200, 149, 247);
+    color: rgb(20, 85, 142);
+    height: 100px;
+    overflow: hidden;
+}
+
+.exemplo1{
+    background-color: rgb(200, 149, 247);
+    color: rgb(20, 85, 142);
+    height: 100px;
+    overflow:visible; 
+}
+
+.exemplo2{
+    background-color: rgb(200, 149, 247);
+    color: rgb(20, 85, 142);
+    height: 150px;
+    overflow:scroll; 
+}

@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+  color: blueviolet;
+}
+
+input[type = text]{
+ background-color: aqua;
+}
+
+input[type = email]{
+    background-color:chartreuse;
+   }
+
+input[type = submit]{
+    width: 80px;
+   
+    border-radius: 5px;
+   }
+
+h2,h3{
+    color: darkblue;
+    font-size: 20px;
+}
+
+.item{
+    color: crimson;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: center;
+}
+
+#ok{
+    color: deepskyblue;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: justify;
+}

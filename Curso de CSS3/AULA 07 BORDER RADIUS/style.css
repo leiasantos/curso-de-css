@@ -1,0 +1,33 @@
+
+.card{
+    background-color: blueviolet;
+    width: 300px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.card1{
+    background-color: rgb(11, 189, 94);
+    width: 300px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+
+.card2{
+    background-color: rgb(213, 101, 26);
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 100%;
+}
+
+.card3{
+    background-color: rgb(47, 12, 159);
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 10px 30px 20px 7px;
+}

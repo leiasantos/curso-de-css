@@ -1,0 +1,38 @@
+.flex-pai{
+    background-color: blueviolet;
+    height: 500px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items:center;
+    align-content: center;
+}
+
+.flex-pai div{
+    background-color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    border: 1px solid black;
+    margin: 6px;
+    padding: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:600px) {
+.flex-pai{
+    flex-direction: column;
+  }
+
+}

@@ -1,0 +1,72 @@
+
+a.item1{
+    background-color: chartreuse;
+    color: blue;
+    padding: 10px;
+    text-decoration: none;
+    border: 2px solid pink;
+}
+
+
+a.item1:hover{
+    background-color: rgb(255, 103, 215);
+    color: rgb(156, 80, 13);
+    padding: 12px;
+    text-decoration: none;
+    border: 2px solid black;
+}
+
+
+
+a.item2{
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid pink;
+    color: deepskyblue;
+}
+
+a.item2:hover{
+    text-decoration: underline;
+    padding: 8px;
+    background-color: magenta;
+    color: aliceblue;
+    
+}
+
+
+a.item3{
+   color: black;
+   text-decoration: none;  
+}
+
+a.item3:hover{
+    color: rgb(56, 5, 84);
+    border-bottom: 3px solid black; 
+ }
+
+a.item4{
+    text-decoration: none;
+    color: blue;
+    font: 18px;
+}
+a.item4:hover{
+    font-size: 28px;
+    font-weight: bold;
+    
+}
+
+a.item5{
+  background-color: blueviolet;
+  padding: 10px;
+  text-decoration: none;
+  border: 2px solid pink;
+  color:aliceblue
+}
+
+a.item5:hover{
+    background-color: rgb(220, 209, 230);
+    padding: 10px;
+    border: 2px solid rgb(161, 25, 138);
+    color:rgb(3, 27, 48);
+    border-radius: 12px;
+  }

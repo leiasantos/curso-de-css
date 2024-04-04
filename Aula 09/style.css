@@ -1,0 +1,61 @@
+
+div{
+    margin: 8px;
+}
+
+.item1{
+    background-color: aquamarine;
+    height: 300px;
+    padding-top: 30px;
+
+}
+
+.item2{
+    background-color: rgb(165, 42, 155);
+    width: 100%;
+    height: 300px;
+    padding-left: 20px;
+}
+
+.item3{
+    background-color: crimson;
+    width: 100%;
+    height: 300px;
+}
+
+.bloco{
+    background-color: darkturquoise;
+    width: 300px;
+    height: 100px;
+    padding: 20px 40px 80px 15px;
+    border: 1px solid black;
+}
+
+.teste{
+    padding: 20px 40px 80px 15px;
+   border: 1px solid black;
+}
+
+.teste2{
+    padding-right: 80%;
+    border: 1px solid black;  
+}
+
+.teste3{
+    padding-bottom: 30mm;
+    border: 1px solid black;  
+}
+
+button{
+    background: darkorchid;
+    color: rgb(236, 236, 244);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    
+
+}

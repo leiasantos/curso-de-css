@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.header{
+    background-color: aqua;
+    text-align: center;
+    padding: 80px;
+    color: blue;
+
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    background-color: black;
+}
+
+.navbar a{
+    color: aliceblue;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: darkorchid;
+}
+
+.corpo{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.card{
+    flex: 48%;
+    background-color: lightgreen;
+    height: 300px;
+    margin: 1%;
+}
+
+
+@media screen and (max-width:700px) {
+   .navbar{
+    flex-direction: column;
+   } 
+
+   .card{
+   flex-direction: column;
+   height: 200px;
+   }
+}

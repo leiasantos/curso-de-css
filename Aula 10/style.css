@@ -1,0 +1,53 @@
+div{
+    margin: 8px;
+}
+.bloco{
+    width: 300px; 
+    background: skyblue;
+}
+
+.bloco1{
+    width: 70%; 
+    background: rgb(215, 18, 192); 
+}
+
+.bloco2{
+    width: auto; 
+  background: rgb(101, 243, 143);
+}
+
+
+.bloco3{
+    width: 100%;
+  max-width: 800px;
+  margin: 0 auto;  
+  background: rgb(245, 130, 29);
+}
+
+.bloco4{
+    height: 200px; 
+    background: skyblue;
+}
+
+.blocos{
+    width: 300px;
+    border: 1px solid orange;
+}
+
+.bloco5{
+    width: 50%;
+    height: 70%; 
+    background: skyblue;
+}
+
+
+.bloco6{
+    height: auto; 
+    background-color: rgb(203, 162, 242);
+}
+
+.bloco7{
+    max-height: 300px;
+    overflow-y: scroll;
+    background: rgb(91, 88, 248);
+}
